@@ -200,4 +200,5 @@ With these two properties, you have external consistency. You won't suffer from 
 - [NoSQL (Wikipedia)](https://en.wikipedia.org/wiki/NoSQL)
 - [NewSQL (Wikipedia)](https://en.wikipedia.org/wiki/NewSQL)
 - [ACID (Wikipedia)](<https://en.wikipedia.org/wiki/ACID_(computer_science)>)
-- [Concurrency Control (Wikipedia)](https://en.wikipedia.org/wiki/Concurrency_control)- [CAP Theorem](https://en.wikipedia.org/wiki/CAP_theorem)
+- [Concurrency Control (Wikipedia)](https://en.wikipedia.org/wiki/Concurrency_control)
+- [CAP Theorem](https://en.wikipedia.org/wiki/CAP_theorem)
