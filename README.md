@@ -194,9 +194,9 @@ With these two properties, you have external consistency. You won't suffer from 
 
 # Appendix
 
-[Spanner, TrueTime & The CAP Theorem](https://storage.googleapis.com/pub-tools-public-publication-data/pdf/45855.pdf)
-[NoSQL (Wikipedia)](https://en.wikipedia.org/wiki/NoSQL)
-[NewSQL (Wikipedia)](https://en.wikipedia.org/wiki/NewSQL)
-[ACID (Wikipedia)](<https://en.wikipedia.org/wiki/ACID_(computer_science)>)
-[CAP Theorem](https://en.wikipedia.org/wiki/CAP_theorem)
-[Cloud Spanner: TrueTime and external consistency](https://cloud.google.com/spanner/docs/true-time-external-consistency)
+- [Spanner, TrueTime & The CAP Theorem](https://storage.googleapis.com/pub-tools-public-publication-data/pdf/45855.pdf)
+- [NoSQL (Wikipedia)](https://en.wikipedia.org/wiki/NoSQL)
+- [NewSQL (Wikipedia)](https://en.wikipedia.org/wiki/NewSQL)
+- [ACID (Wikipedia)](<https://en.wikipedia.org/wiki/ACID_(computer_science)>)
+- [CAP Theorem](https://en.wikipedia.org/wiki/CAP_theorem)
+- [Cloud Spanner: TrueTime and external consistency](https://cloud.google.com/spanner/docs/true-time-external-consistency)
